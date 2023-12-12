@@ -15,7 +15,7 @@
 #include <iomanip>
 using namespace std;
 int main(){
-double age ,height ,bounty ;
+int age ,height ,bounty ;
 cout << "Enter your age: ";
 cin >> age;
 if( age <= 25 ){
